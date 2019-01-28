@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="mongo-c-driver" targetName="json-to-bson" />
+      <config projectName="mongo-c-driver" targetName="bson_static" />
+      <config projectName="mongo-c-driver" targetName="common-operations" />
+      <config projectName="mongo-c-driver" targetName="mongoc_shared" />
+      <config projectName="mongo-c-driver" targetName="example-command-monitoring" />
+      <config projectName="mongo-c-driver" targetName="bson-metrics" />
+      <config projectName="mongo-c-driver" targetName="basic-aggregation" />
+      <config projectName="mongo-c-driver" targetName="dist" />
+      <config projectName="mongo-c-driver" targetName="bson-check-depth" />
+      <config projectName="mongo-c-driver" targetName="example-gridfs" />
+      <config projectName="mongo-c-driver" targetName="bulk6" />
+      <config projectName="mongo-c-driver" targetName="test-mongoc-gssapi" />
+      <config projectName="mongo-c-driver" targetName="bulk4" />
+      <config projectName="mongo-c-driver" targetName="bulk3" />
+      <config projectName="mongo-c-driver" targetName="uninstall" />
+      <config projectName="mongo-c-driver" targetName="bulk1" />
+      <config projectName="mongo-c-driver" targetName="example-collection-watch" />
+      <config projectName="mongo-c-driver" targetName="example-session" />
+      <config projectName="mongo-c-driver" targetName="example-start-at-optime" />
+      <config projectName="mongo-c-driver" targetName="aggregation1" />
+      <config projectName="mongo-c-driver" targetName="example-resume" />
+      <config projectName="mongo-c-driver" targetName="bson-streaming-reader" />
+      <config projectName="mongo-c-driver" targetName="example-pool" />
+      <config projectName="mongo-c-driver" targetName="example-gridfs-bucket" />
+      <config projectName="mongo-c-driver" targetName="bulk2" />
+      <config projectName="mongo-c-driver" targetName="example-command-with-opts" />
+      <config projectName="mongo-c-driver" targetName="bulk5" />
+      <config projectName="mongo-c-driver" targetName="hello_mongoc" />
+      <config projectName="mongo-c-driver" targetName="mongoc-ping" />
+      <config projectName="mongo-c-driver" targetName="example-sdam-monitoring" />
+      <config projectName="mongo-c-driver" targetName="mongoc-dump" />
+      <config projectName="mongo-c-driver" targetName="find-and-modify" />
+      <config projectName="mongo-c-driver" targetName="test-libmongoc" />
+      <config projectName="mongo-c-driver" targetName="bson_shared" />
+      <config projectName="mongo-c-driver" targetName="bson-validate" />
+      <config projectName="mongo-c-driver" targetName="distcheck" />
+      <config projectName="mongo-c-driver" targetName="bson-to-json" />
+      <config projectName="mongo-c-driver" targetName="bcon-speed" />
+      <config projectName="mongo-c-driver" targetName="example-update" />
+      <config projectName="mongo-c-driver" targetName="example-create-indexes" />
+      <config projectName="mongo-c-driver" targetName="mongoc_static" />
+      <config projectName="mongo-c-driver" targetName="mongoc-tail" />
+      <config projectName="mongo-c-driver" targetName="mongoc-stat" />
+      <config projectName="mongo-c-driver" targetName="example-transaction" />
+      <config projectName="mongo-c-driver" targetName="fam" />
+      <config projectName="mongo-c-driver" targetName="bulk-collation" />
+      <config projectName="mongo-c-driver" targetName="example-client" />
+      <config projectName="mongo-c-driver" targetName="bcon-col-view" />
+      <config projectName="mongo-c-driver" targetName="example-scram" />
+      <config projectName="mongo-c-driver" targetName="check" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60c239ea-35f1-417c-8411-b76c0d87c479" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/example-client.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <element signature="e#155#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/doc-common-insert.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/bulk/bulk-collation.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-469">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/bulk/bulk1.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-702">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1024" />
+    <option name="height" value="770" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="debian" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="orchestration_configs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="libmongoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="libmongoc" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mongo-c-driver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mongo-c-driver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="libmongoc" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="bulk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.example-command-monitoring">
+    <configuration name="aggregation1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="aggregation1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="aggregation1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic-aggregation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="basic-aggregation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="basic-aggregation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bcon-col-view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bcon-col-view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bcon-col-view">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bcon-speed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bcon-speed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bcon-speed">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson-check-depth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson-check-depth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bson-check-depth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson-metrics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson-metrics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bson-metrics">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson-streaming-reader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson-streaming-reader" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bson-streaming-reader">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson-to-json" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson-to-json" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bson-to-json">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson-validate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson-validate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bson-validate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bson_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bson_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk-collation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk-collation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk-collation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bulk6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="bulk6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="bulk6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="common-operations" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="common-operations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="common-operations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dist" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="dist" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="distcheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="distcheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-collection-watch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-collection-watch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-collection-watch">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-command-monitoring" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-command-monitoring" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-command-monitoring">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-command-with-opts" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-command-with-opts" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-command-with-opts">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-create-indexes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-create-indexes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-create-indexes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-gridfs-bucket" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-gridfs-bucket" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-gridfs-bucket">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-gridfs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-gridfs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-gridfs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-pool" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-pool" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-pool">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-resume" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-resume" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-resume">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-scram" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-scram" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-scram">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-sdam-monitoring" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-sdam-monitoring" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-sdam-monitoring">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-session" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-session" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-session">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-start-at-optime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-start-at-optime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-start-at-optime">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-transaction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-transaction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-transaction">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example-update" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="example-update" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="example-update">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fam" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="fam" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="fam">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="find-and-modify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="find-and-modify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="find-and-modify">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_mongoc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="hello_mongoc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="hello_mongoc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="json-to-bson" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="json-to-bson" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="json-to-bson">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongoc-dump" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="mongoc-dump" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="mongoc-dump">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongoc-ping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="mongoc-ping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="mongoc-ping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongoc-stat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="mongoc-stat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="mongoc-stat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongoc-tail" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="mongoc-tail" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="mongoc-tail">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongoc_shared" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="mongoc_shared" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongoc_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="mongoc_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-libmongoc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="test-libmongoc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="test-libmongoc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-mongoc-gssapi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="test-mongoc-gssapi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mongo-c-driver" RUN_TARGET_NAME="test-mongoc-gssapi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mongo-c-driver" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.dist" />
+      <item itemvalue="Application.distcheck" />
+      <item itemvalue="Application.uninstall" />
+      <item itemvalue="Application.bcon-col-view" />
+      <item itemvalue="Application.bcon-speed" />
+      <item itemvalue="Application.bson-check-depth" />
+      <item itemvalue="Application.bson-metrics" />
+      <item itemvalue="Application.bson-streaming-reader" />
+      <item itemvalue="Application.bson-to-json" />
+      <item itemvalue="Application.bson-validate" />
+      <item itemvalue="Application.bson_shared" />
+      <item itemvalue="Application.bson_static" />
+      <item itemvalue="Application.json-to-bson" />
+      <item itemvalue="Application.aggregation1" />
+      <item itemvalue="Application.basic-aggregation" />
+      <item itemvalue="Application.bulk-collation" />
+      <item itemvalue="Application.bulk1" />
+      <item itemvalue="Application.bulk2" />
+      <item itemvalue="Application.bulk3" />
+      <item itemvalue="Application.bulk4" />
+      <item itemvalue="Application.bulk5" />
+      <item itemvalue="Application.bulk6" />
+      <item itemvalue="Application.check" />
+      <item itemvalue="Application.common-operations" />
+      <item itemvalue="Application.example-client" />
+      <item itemvalue="Application.example-collection-watch" />
+      <item itemvalue="Application.example-command-monitoring" />
+      <item itemvalue="Application.example-command-with-opts" />
+      <item itemvalue="Application.example-create-indexes" />
+      <item itemvalue="Application.example-gridfs" />
+      <item itemvalue="Application.example-gridfs-bucket" />
+      <item itemvalue="Application.example-pool" />
+      <item itemvalue="Application.example-resume" />
+      <item itemvalue="Application.example-scram" />
+      <item itemvalue="Application.example-sdam-monitoring" />
+      <item itemvalue="Application.example-session" />
+      <item itemvalue="Application.example-start-at-optime" />
+      <item itemvalue="Application.example-transaction" />
+      <item itemvalue="Application.example-update" />
+      <item itemvalue="Application.fam" />
+      <item itemvalue="Application.find-and-modify" />
+      <item itemvalue="Application.hello_mongoc" />
+      <item itemvalue="Application.mongoc-dump" />
+      <item itemvalue="Application.mongoc-ping" />
+      <item itemvalue="Application.mongoc-stat" />
+      <item itemvalue="Application.mongoc-tail" />
+      <item itemvalue="Application.mongoc_shared" />
+      <item itemvalue="Application.mongoc_static" />
+      <item itemvalue="Application.test-libmongoc" />
+      <item itemvalue="Application.test-mongoc-gssapi" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60c239ea-35f1-417c-8411-b76c0d87c479" name="Default Changelist" comment="" />
+      <created>1548701905893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548701905893</updated>
+      <workItem from="1548701907397" duration="1466000" />
+      <workItem from="1548707799422" duration="992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2458000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="2493" height="1353" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20882714" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32924837" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.17238562" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/libmongoc/examples/example-client.c</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/example-client.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#155#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/doc-common-insert.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/bulk/bulk1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/libmongoc/examples/bulk/bulk-collation.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
